@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
   shimmer_animation: ^2.1.0
+  device_preview: ^1.2.0
+  geolocator: ^13.0.1
+
 
 dev_dependencies:
   flutter_test:

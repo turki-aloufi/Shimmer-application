@@ -1,4 +1,5 @@
 import 'package:assignment_14/pages/home_page.dart';
+import 'package:assignment_14/pages/location.dart';
 import 'package:flutter/material.dart';
 
 class NavBar extends StatefulWidget {
@@ -11,7 +12,7 @@ class NavBar extends StatefulWidget {
 class _NavBarState extends State<NavBar> {
   List pages = [
     const HomePage(),
-    const Text("data"),
+    const Location(),
     const Text("data"),
     const Text("data"),
     const Text("data"),
